@@ -1,2 +1,2 @@
-# dab_simulation
+# ENREV2-DAB_Simulation
 UNIOVI - DAV prototype simulation
